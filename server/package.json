@@ -12,7 +12,10 @@
   "packageManager": "pnpm@10.12.1",
   "dependencies": {
     "@types/express": "^5.0.3",
+    "@types/mongoose": "^5.11.97",
     "@types/node": "^24.0.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
     "typescript": "^5.8.3"
   }
 }
